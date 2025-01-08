@@ -2,26 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/qubt/resume/</loc>
-    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/qubt/resume/post1/</loc>
-    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/qubt/</loc>
     <lastmod>2023-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/qubt/resume/post2/</loc>
+    <loc>http://localhost:1313/qubt/resume/industry-experience/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/qubt/resume/</loc>
+    <lastmod>2023-11-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/qubt/resume/university-socs/</loc>
     <lastmod>2023-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/qubt/resume/post3/</loc>
+    <loc>http://localhost:1313/qubt/resume/research/</loc>
     <lastmod>2023-11-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/qubt/resume/post4/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/qubt/resume/side-projects/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/qubt/resume/volunteering/</loc>
+    <lastmod>2023-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/qubt/about/</loc>
   </url><url>
     <loc>http://localhost:1313/qubt/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/qubt/resume/hackathons/</loc>
   </url>
 </urlset>

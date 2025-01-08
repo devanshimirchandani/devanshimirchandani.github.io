@@ -1,27 +1,44 @@
 ---
 title: Hackathons
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+summary: I thrive on building innovative solutions in high-pressure, collaborative environments — and hackathons are my favorite playground. Here’s a glimpse into some of the most rewarding projects I’ve been a part of.
 cardimage: hackathon1.jpeg
-authors:
-  - John Doe: author.jpeg
+date: 2024-12-03
 ---
 
-<figure>
-  <img src="hackathon1.jpeg" alt="hackathon1" title="Winning the Build Club x Eucalyptus Hackathon">
-  <figcaption>Winning the Build Club x Eucalyptus Hackathon</figcaption>
+I thrive on building innovative solutions in high-pressure, collaborative environments — and hackathons are my favorite playground. Here’s a glimpse into some of the most rewarding projects I’ve been a part of.
+
+---------------------------------------------------------------------------------------------------------------------
+
+## **Build Club x Eucalyptus AI Hackathon, December 2024**
+### 🚀 *Love, Blandy: Support When It’s Needed Most*
+
+Inspired by Euc’s roadmap and a critical 16-hour gap in patient support, our team developed Love, Blandy, a Python-powered web app leveraging Bland.ai’s API. This solution bridges the communication gap between coaches and patients by initiating daily AI check-ins, collecting patient progress data, and displaying insights on a coach dashboard.
+
+- **Award 🏆** Winner, Build Club x Eucalyptus AI Hackathon
+- **Tech Stack 🛠️** Python web app, Bland.ai API
+
+Our innovation reimagines patient-coach interaction, offering timely support and paving the way for future integration with video AI solutions for an even more personalized experience.
+
+<figure style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+  <img src="hackathon1.jpeg" alt="hackathon1" title=" " style="width: 550px; height: 550px; object-fit: cover; border-radius: 10px;">
+  <figcaption style="margin-top: 10px; text-align: center;">Winning the Build Club x Eucalyptus AI Hackathon</figcaption>
 </figure>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere :zap:.
+---------------------------------------------------------------------------------------------------------------------
 
-**Heading**
-- List item 1
-- List item 2
-- List item 3
+## **University of Sydney Coding Fest, July 2023**
+### 🚀 *UniTrack: Navigating Success, One Course at a Time*
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+UniTrack is a user-friendly web app designed to revolutionize course planning for University of Sydney students. Built from scratch, it integrates course outlines, degree requirements, and personalized planning tools into a seamless platform, simplifying the academic journey.
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+- **Award 🏆** Citadel Securities Best Undergraduate Junior Project
+- **Tech Stack 🛠️** JavaScript, Next.js, Material UI, Firebase, Vercel
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+Our team of four focused on intuitive UI/UX and functionality, earning recognition for its potential to enhance the student experience. UniTrack is more than a tool—it’s a step toward empowering students to make informed decisions about their studies.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+<figure style="display: flex; flex-direction: column; justify-content: center; align-items: center">
+  <img src="hackathon2.jpeg" alt="hackathon1" title=" " style="width: 550px; height: 550px; object-fit: cover; border-radius: 10px;">
+  <figcaption style="margin-top: 10px; text-align: center;">Winning Top Undergraduate Junior Project</figcaption>
+</figure>
+
+---------------------------------------------------------------------------------------------------------------------
