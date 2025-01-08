@@ -4,9 +4,9 @@
 
 author:
   name: "Devanshi Mirchandani"
-  image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
-  icon: ":wave:"
+  image: author.png
+  greeting: "I build, I break, I learn."
+  # icon: ":wave:"
 
 ############################
 ## Links
