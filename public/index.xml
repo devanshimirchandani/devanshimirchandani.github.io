@@ -9,39 +9,53 @@
     <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/qubt/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog Post with Inline Images</title>
-      <link>http://localhost:1313/qubt/blog/post1/</link>
+      <title>Industry Experience</title>
+      <link>http://localhost:1313/qubt/resume/1-industry-experience/</link>
       <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qubt/blog/post1/</guid>
+      <guid>http://localhost:1313/qubt/resume/1-industry-experience/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     <item>
-      <title>Blog Post With Extra Long Title</title>
-      <link>http://localhost:1313/qubt/blog/post2/</link>
+      <title>University Societies</title>
+      <link>http://localhost:1313/qubt/resume/2-university-socs/</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qubt/blog/post2/</guid>
+      <guid>http://localhost:1313/qubt/resume/2-university-socs/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     <item>
-      <title>Blog Post 3</title>
-      <link>http://localhost:1313/qubt/blog/post3/</link>
+      <title>Hackathons</title>
+      <link>http://localhost:1313/qubt/resume/3-/</link>
       <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qubt/blog/post3/</guid>
+      <guid>http://localhost:1313/qubt/resume/3-/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     <item>
-      <title>Blog Post 4</title>
-      <link>http://localhost:1313/qubt/blog/post4/</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qubt/blog/post4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. Integer varius ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere. Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et.</description>
+      <title>Research</title>
+      <link>http://localhost:1313/qubt/resume/post4/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/qubt/resume/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
+    </item>
+    <item>
+      <title>Volunteering</title>
+      <link>http://localhost:1313/qubt/resume/post5/</link>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/qubt/resume/post5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/qubt/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/qubt/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. &lt;a href=&#34;https://lipsum.com&#34;&gt;Integer varius&lt;/a&gt; ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.&lt;/p&gt;&#xA;&lt;p&gt;Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello&amp;#x1f44b; I&amp;rsquo;m a penultimate-year student at the University of Sydney, pursuing a Bachelor of Advanced Computing with double majors in Computational Data Science and Finance.&lt;/p&gt;&#xA;&lt;p&gt;Born and raised in Dubai, I now call Sydney home. Apart from coding, I love theatre, making films, video editing, and stepping out of my comfort zone.&lt;/p&gt;&#xA;&lt;p&gt;My approach to technology is guided by &lt;em&gt;I build, I break, I learn&lt;/em&gt; I thrive on developing solutions, pushing boundaries, and learning from each experience, whether it’s a success or failure. Through my work, I’ve had the opportunity to&#xA;contribute to meaningful projects, from social impact initiatives in Kenya to hosting a tech expo with 500+ attendees.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/qubt/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/qubt/contact/</guid>
+      <description>&lt;p&gt;I’ve honed my technical skills in software engineering, data science, and project management, and I’m always looking for new ways to apply these skills for a greater impact.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m always eager to build, break, and learn. Let&amp;rsquo;s connect!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

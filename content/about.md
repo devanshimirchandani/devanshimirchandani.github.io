@@ -1,14 +1,18 @@
 ---
-# don't change
 type: misc
-
-# change these
-jobTitle: Blogger
-name: John Doe
+jobTitle: Software Engineer and Data Enthusiast.
+name: Devanshi Mirchandani
 bio: true
-icon: ":coffee:"
+# icon: ":coffee:"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut cursus magna sed luctus auctor. Sed eu augue dignissim, lobortis ipsum eu, dictum nisi. [Integer varius](https://lipsum.com) ex maximus quam lobortis accumsan. Morbi mollis vulputate metus, aliquam feugiat arcu porta a. Quisque id justo ultricies, lacinia elit quis, pulvinar odio. Fusce feugiat at velit vitae lobortis. Nulla fringilla metus et sem mattis posuere.
+Hello:wave: I'm a penultimate-year student at the University of Sydney, pursuing a Bachelor of Advanced Computing with double majors in Computational Data Science and Finance. 
 
-Nulla pellentesque quam sit amet est posuere, tincidunt auctor ligula bibendum. Donec dapibus lacinia nibh, convallis ultrices enim laoreet et. Duis auctor, lectus nec vehicula suscipit, sapien erat pellentesque augue, pulvinar tempus sapien leo sit amet erat. Proin porta, mauris vitae aliquet consectetur, erat eros maximus turpis, at suscipit nibh urna id leo. Nunc commodo sed diam ut aliquet. Duis eros mi, ullamcorper sit amet ex id, aliquet dignissim libero. Fusce at turpis eget nisl feugiat cursus eget vitae elit. Integer auctor enim vel orci fringilla facilisis. Praesent ac euismod tellus.
+Born and raised in Dubai, I now call Sydney home. Apart from coding, I love theatre, making films, video editing, and stepping out of my comfort zone.
+
+My approach to technology is guided by _I build, I break, I learn_ I thrive on developing solutions, pushing boundaries, and learning from each experience, whether it’s a success or failure. Through my work, I’ve had the opportunity to 
+contribute to meaningful projects, from social impact initiatives in Kenya to hosting a tech expo with 500+ attendees. 
+
+I’ve honed my technical skills in software engineering, data science, and project management, and I’m always looking for new ways to apply these skills for a greater impact.
+
+Beyond my technical work, I’m crazy about leadership and community engagement. I founded the Biokind Analytics chapter at the University of Sydney, and currently serve as the Founding Head of Curation for TEDxUSYD. I also volunteer as an academic tutor for the Girls Programming Network, where I mentor high school students interested in tech.

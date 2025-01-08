@@ -8,6 +8,11 @@ author:
   greeting: "I build, I break, I learn."
   # icon: ":wave:"
 
+about:
+  name: "Devanshi Mirchandani"
+  image: about.png
+  # icon: ":wave:"
+
 ############################
 ## Links
 ############################
