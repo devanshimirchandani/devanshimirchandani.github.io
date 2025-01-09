@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Devanshi Mirchandani</title>
+    <link>http://localhost:1313/qubt/contact/</link>
+    <description>Recent content in Contacts on Devanshi Mirchandani</description>
+    <generator>Hugo</generator>
+    <language>en-au</language>
+    <atom:link href="http://localhost:1313/qubt/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/qubt/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/qubt/contact/contact/</guid>
+      <description>&lt;figure style=&#34;display: flex; flex-direction: column; justify-content: center; align-items: center&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/qubt/assets/authorrr.jpeg&#34; alt=&#34;Devanshi&#39;s Profile Photo&#34; title=&#34; &#34; style=&#34;width: 550px; height: 550px; object-fit: cover; border-radius: 10px;&#34;&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>
