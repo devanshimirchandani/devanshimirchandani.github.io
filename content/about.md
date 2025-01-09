@@ -1,7 +1,6 @@
 ---
 type: misc
-jobTitle: Software Engineer and Data Enthusiast.
-name: Devanshi Mirchandani
+jobTitle: Software Engineer
 bio: true
 # icon: ":coffee:"
 ---
