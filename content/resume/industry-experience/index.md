@@ -1,13 +1,8 @@
 ---
 title: Industry Experience
-subtitle: "Blog post subtitle :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
-cardimage: photo1_card.jpeg
-featureimage: photo1.jpeg
-caption: Image caption
-authors:
-  - Christian: author.jpeg
+summary: From software engineering, to data analysis, to project management, I’ve tackled challenges across diverse roles, blending technical expertise with leadership and collaboration to make meaningful impact. Here are the highlights.
+date: 2024-08-26
+cardimage: industry1.png
 ---
 Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
 
