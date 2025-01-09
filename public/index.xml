@@ -55,14 +55,7 @@
       <link>http://localhost:1313/qubt/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/qubt/about/</guid>
-      <description>&lt;p&gt;Hello&amp;#x1f44b; I&amp;rsquo;m a &lt;strong&gt;penultimate-year student&lt;/strong&gt; at the University of Sydney, pursuing a Bachelor of Advanced Computing (Honours) with double majors in &lt;em&gt;Computational Data Science&lt;/em&gt; and &lt;em&gt;Finance&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Born and raised in Dubai, I now call Sydney home. Apart from all-things-tech, I love doing hackathons, meeting new people, video editing, and &lt;em&gt;constantly&lt;/em&gt; stepping out of my comfort zone.&lt;/p&gt;&#xA;&lt;p&gt;My approach to technology is guided by &lt;strong&gt;I build, I break, I learn&lt;/strong&gt; to thrive on developing solutions, push boundaries, and learn from each experience, whether it’s a success or failure. Through my work, I’ve had the opportunity to contribute to meaningful projects, from social impact initiatives in Kenya to single-handedly hosting a technology and innvoation expo with 500+ attendees.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/qubt/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/qubt/contact/</guid>
-      <description>&lt;figure style=&#34;display: flex; flex-direction: column; justify-content: center; align-items: center&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/qubt/assets/authorrr.jpeg&#34; alt=&#34;Devanshi&#39;s Profile Photo&#34; title=&#34; &#34; style=&#34;width: 550px; height: 550px; object-fit: cover; border-radius: 10px;&#34;&gt;&#xA;&lt;/figure&gt;</description>
+      <description>&lt;p&gt;Hello&amp;#x1f44b; I&amp;rsquo;m a &lt;strong&gt;penultimate-year student&lt;/strong&gt; at the University of Sydney, pursuing a Bachelor of Advanced Computing (Honours) with double majors in &lt;em&gt;Computational Data Science&lt;/em&gt; and &lt;em&gt;Finance&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Born and raised in Dubai, I now call Sydney home. Apart from &lt;code&gt;all-things-tech&lt;/code&gt;, I love gaming, meeting new people, videography, and stepping out of my comfort zone. I’m crazy about leadership and community engagement; &lt;ins&gt;I&amp;rsquo;ve been part of 8 university societies&lt;/ins&gt; (founded two), and hosted a technology and innovation expo with &lt;strong&gt;500+ attendees&lt;/strong&gt; — to name a few of my experiences.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

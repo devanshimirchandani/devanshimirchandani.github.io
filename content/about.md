@@ -7,8 +7,6 @@ bio: true
 
 Hello:wave: I'm a **penultimate-year student** at the University of Sydney, pursuing a Bachelor of Advanced Computing (Honours) with double majors in *Computational Data Science* and *Finance*. 
 
-Born and raised in Dubai, I now call Sydney home. Apart from all-things-tech, I love doing hackathons, meeting new people, video editing, and *constantly* stepping out of my comfort zone.
+Born and raised in Dubai, I now call Sydney home. Apart from `all-things-tech`, I love gaming, meeting new people, videography, and stepping out of my comfort zone. I’m crazy about leadership and community engagement; <ins>I've been part of 8 university societies</ins> (founded two), and hosted a technology and innovation expo with **500+ attendees** — to name a few of my experiences.
 
-My approach to technology is guided by **I build, I break, I learn** to thrive on developing solutions, push boundaries, and learn from each experience, whether it’s a success or failure. Through my work, I’ve had the opportunity to contribute to meaningful projects, from social impact initiatives in Kenya to single-handedly hosting a technology and innvoation expo with 500+ attendees. 
-
-Beyond my technical work, I’m crazy about leadership and community engagement. I've been part of <ins>8</ins> university societies (founded two), given talks on self-development (one of my favourite topics), and ...
+My approach to proramming is guided by **"Build. Break. Learn."** to thrive on developing solutions, push boundaries, and learn from each experience, whether it’s a success or failure. Through my work, I’ve had the opportunity to work on a range of meaningful projects, from teaching high school students programming in Python to participating in **cancer research** using single-celled RNA sequencing data. *Very* cool experience.

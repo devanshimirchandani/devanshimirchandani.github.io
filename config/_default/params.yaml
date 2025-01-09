@@ -5,7 +5,7 @@
 author:
   name: "Devanshi Mirchandani"
   image: author.png
-  greeting: "I build, I break, I learn."
+  greeting: "Building. Breaking. Learning."
   # icon: ":wave:"
 
 about:
@@ -30,7 +30,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: mailto:devanshi.mirchandani@gmail.com
   # - website:
   # - link: 
   # - discord:
@@ -70,7 +70,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: "Devanshi Mirchandani"
+description: "Portfolio Website"
 images:
-  - thumbnail.jpeg
+  - logo.png
