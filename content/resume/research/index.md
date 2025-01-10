@@ -4,3 +4,6 @@ summary: I discovered research during university and got hooked because it let m
 cardimage: research1.jpeg
 date: 2024-10-25
 ---
+
+# sdpsc
+# biokind

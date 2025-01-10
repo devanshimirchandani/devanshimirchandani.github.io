@@ -4,3 +4,12 @@ summary: I’ve had the privilege of being involved in a 8 university societies 
 date: 2024-10-30
 cardimage: socs1.jpg
 ---
+
+# tedxusyd
+# biokind
+# syncs
+# sudata
+# gdsc
+# statsoc
+# network of women
+# aiesec
