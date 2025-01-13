@@ -23,7 +23,7 @@ This work culminated in a **presentation night**, where we showcased our finding
 
 ---------------------------------------------------------------------------------------------------------------------
 
-### Biokind Analytics
+## Biokind Analytics
 ### Data Analyst
 #### October - December 2023
 

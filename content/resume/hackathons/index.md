@@ -18,10 +18,7 @@ Inspired by Euc’s roadmap and a critical 16-hour gap in patient support, our t
 
 Our innovation reimagines patient-coach interaction, offering timely support and paving the way for future integration with video AI solutions for an even more personalised experience.
 
-<figure style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-  <img src="hackathon1.jpeg" alt="hackathon1" title=" " style="width: 550px; height: 550px; object-fit: cover; border-radius: 10px;">
-  <figcaption style="margin-top: 10px; text-align: center;">Winning the Build Club x Eucalyptus AI Hackathon, December 2024</figcaption>
-</figure>
+{{< figArray subfolder="hackathon1" figCaption="Winning the Build Club x Eucalyptus AI Hackathon, December 2024" >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -36,9 +33,7 @@ UniTrack is a user-friendly web app designed to revolutionise course planning fo
 
 Our team of four focused on intuitive UI/UX and functionality, earning recognition for its potential to enhance the student experience. UniTrack is more than a tool—it’s a step toward empowering students to make informed decisions about their studies.
 
-<figure style="display: flex; flex-direction: column; justify-content: center; align-items: center">
-  <img src="hackathon2.jpeg" alt="hackathon1" title=" " style="width: 550px; height: 550px; object-fit: cover; border-radius: 10px;">
-  <figcaption style="margin-top: 10px; text-align: center;">Winning Coding Fests' Top Undergraduate Project, July 2023</figcaption>
-</figure>
+{{< figArray subfolder="hackathon2" figCaption="Winning Coding Fests' Top Undergraduate Project, July 2023" >}}
+
 
 ---------------------------------------------------------------------------------------------------------------------
