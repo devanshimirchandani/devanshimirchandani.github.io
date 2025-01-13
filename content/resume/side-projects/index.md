@@ -4,3 +4,5 @@ summary: I believe in the power of “I build, I break, I learn.” Side quests 
 date: 2023-03-31
 cardimage: quest1.jpeg
 ---
+
+Coming soon :)
