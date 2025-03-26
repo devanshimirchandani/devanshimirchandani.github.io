@@ -7,6 +7,16 @@ date: 2024-12-03
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## **Microsoft Promptathon**
+### 🚀 *Revolutionising Agriculture with AI-Driven Efficiency*
+
+Our team of four explored how MS Copilot could seamlessly integrate into the agriculture industry, enhancing productivity and decision-making. We designed AI-driven systems that empowered farmers with real-time insights, automation, and intelligent recommendations, bridging the gap between traditional farming practices and cutting-edge technology. Following our win, we got an exclusive tour of the Microsoft office, got hands-on with cutting-edge tech, and did speed networking with industry experts.
+
+- **Award 🏆** One of five finalist teams
+- **Tech Stack 🛠️** Microsoft Copilot
+
+---------------------------------------------------------------------------------------------------------------------
+
 ## **Build Club x Eucalyptus AI Hackathon**
 ### 🚀 *Love, Blandy: Support When It’s Needed Most*
 
