@@ -39,6 +39,22 @@ I led and carried out a network analysis project for the System Changer Network 
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## Biokind Analytics
+### Data Analyst
+#### October - December 2023
+
+[Biokind Analytics](https://www.biokind.org/) is a non-profit organisation that leverages data science to enhance the impact of healthcare-focused non-profits. By providing data analytics and statistical modeling services, Biokind assists these organisations in optimising operations, improving efficiency, and making data-driven decisions. 
+
+{{< figArray subfolder="biokind" figCaption="Meeting with the ALS Association" >}}
+
+As part of my research with Biokind Analytics, I collaborated on a project analysing patient data provided by the [ALS Association](https://www.als.org/support/states/texas), focusing on the state of Texas. Due to the nature of ALS — <ins>a disease that is difficult to characterise, predict, and cure</ins>, our goal was to develop a profile of **socioeconomic** and **geographic** factors *influencing* ALS care in Texas.
+
+Using `R`, we employed statistical methods, including `t-tests` and `regression analysis`, to examine variables such as `income`, `age`, and `geographical location`. We analysed veteran and *non*-veteran populations, clinic usage, and travel distances to treatment centers. Key findings included significant differences in age distributions between veterans and non-veterans, as well as regional patterns highlighting disparities in access to care.
+
+This research provided valuable insights, contributing to **targeted recommendations** for improving resource allocation and patient support.
+
+---------------------------------------------------------------------------------------------------------------------
+
 ## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
 #### Remote, January - February 2023
 Learned and implemented the fundamentals of JavaScript and React.
