@@ -7,7 +7,17 @@ date: 2024-12-03
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## **Microsoft Promptathon**
+## **Atlassian x UNIHACK**
+### 🚀 *Call Sous*
+
+We’ve all been there—staring at a fridge full of ingredients but unsure what to cook. Sous was born from the frustration of decision fatigue in the kitchen. We wanted a smart, seamless way to recognise ingredients, suggest recipes tailored to personal health goals, and provide real-time cooking assistance. Sous is your AI-powered sous chef. Scan your ingredients, get personalised recipes, and call Sous for real-time cooking help—whether it’s substitutions or seasoning fixes. Cooking made effortless.
+
+- **Tech Stack 🛠️** Python, Typescript, Spoonacular API, Gemini API, Bland.ai API
+- **Links 🔗** [Showcase Page](https://campus.buildclub.ai/projects/0193955a-c4bb-70fa-95cf-9ed495e582da), [Demo Link](https://drive.google.com/file/d/1Z0Fv4IWEY3eSzPv9xpwT1DNZVjyYK-3I/view?usp=sharing), [Backend Demo Link](https://www.loom.com/share/8110baf763c745a286f866b8c942af8b?sid=92782277-2ea3-48ae-84a0-fe700dd972cc), [GitHub](https://github.com/devanshimirchandani/sous)
+
+---------------------------------------------------------------------------------------------------------------------
+
+## **Microsoft Prompt-athon**
 ### 🚀 *Revolutionising Agriculture with AI-Driven Efficiency*
 
 Our team of four explored how MS Copilot could seamlessly integrate into the agriculture industry, enhancing productivity and decision-making. We designed AI-driven systems that empowered farmers with real-time insights, automation, and intelligent recommendations, bridging the gap between traditional farming practices and cutting-edge technology. Following our win, we got an exclusive tour of the Microsoft office, got hands-on with cutting-edge tech, and did speed networking with industry experts.
@@ -24,7 +34,7 @@ Inspired by Euc’s roadmap and a critical 16-hour gap in patient support, our t
 
 - **Award 🏆** Winner, Build Club x Eucalyptus AI Hackathon
 - **Tech Stack 🛠️** Python, Bland.ai API
-- **Links 🔗** [Showcase Page](https://campus.buildclub.ai/projects/0193955a-c4bb-70fa-95cf-9ed495e582da), [Bland-AI Workflow](https://app.bland.ai/dashboard/convo-pathways?id=67e3abe8-6f17-45bf-b683-ba7f0140af19), [GitHub](https://github.com/gitparth12/euc-coach-app)
+- **Links 🔗** [Showcase Page](https://campus.buildclub.ai/projects/0193955a-c4bb-70fa-95cf-9ed495e582da), [Bland-AI Workflow](https://app.bland.ai/dashboard/convo-pathways?id=67e3abe8-6f17-45bf-b683-ba7f0140af19), [GitHub](https://github.com/gitparth12/euc-coach-app), [Pitch](https://drive.google.com/file/d/19TVislLJYD01Ur7npDDCnFFRPWA7cwP9/view)
 
 Our innovation reimagines patient-coach interaction, offering timely support and paving the way for future integration with video AI solutions for an even more personalised experience.
 
