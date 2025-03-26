@@ -57,7 +57,7 @@ This research provided valuable insights, contributing to **targeted recommendat
 
 ## Software Development Intern @ Xetech
 #### Remote, January - February 2023
-Learned and implemented the fundamentals of JavaScript and React. [Recommendation.] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
+Learned and implemented the fundamentals of JavaScript and React. [Recommendation](https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -70,6 +70,6 @@ Learned and implemented the fundamentals of JavaScript and React. [Recommendatio
 - Healthcare Software product knowledge
 - React Native understanding
 
-[Recommendation.] (https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
+[Recommendation](https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------------------------
