@@ -15,7 +15,7 @@ We’ve all been there—staring at a fridge full of ingredients but unsure what
 - **Tech Stack 🛠️** Python, Typescript, Spoonacular API, Gemini API, Bland.ai API
 - **Links 🔗** [Showcase Page](https://campus.buildclub.ai/projects/0193955a-c4bb-70fa-95cf-9ed495e582da), [Demo Link](https://drive.google.com/file/d/1Z0Fv4IWEY3eSzPv9xpwT1DNZVjyYK-3I/view?usp=sharing), [Backend Demo Link](https://www.loom.com/share/8110baf763c745a286f866b8c942af8b?sid=92782277-2ea3-48ae-84a0-fe700dd972cc), [GitHub](https://github.com/devanshimirchandani/sous)
 
-{{< figArray subfolder="hackathon4" figCaption="Atlassian x UNIHACK, Team Sous" >}}
+{{< figArray subfolder="hackathon4" figCaption="Atlassian x UNIHACK, March 2025" >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 

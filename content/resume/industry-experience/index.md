@@ -55,19 +55,21 @@ This research provided valuable insights, contributing to **targeted recommendat
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
+## Software Development Intern @ Xetech
 #### Remote, January - February 2023
-Learned and implemented the fundamentals of JavaScript and React.
+Learned and implemented the fundamentals of JavaScript and React. [Recommendation.] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
+## Software Development Intern @ Xetech
 #### Remote, June - July 2022
-— Agile Methodology, Scrum guidance and events, Scrum Practice sessions
-— Documentation of Business Analysis
-— Manual Testing Standards, Test cases study, Test scenarios, Functional Testing
-— Project Management via DevOps
-— Healthcare Software product knowledge
-— React Native understanding
+- Agile Methodology, Scrum guidance and events, Scrum Practice sessions
+- Documentation of Business Analysis
+- Manual Testing Standards, Test cases study, Test scenarios, Functional Testing
+- Project Management via DevOps
+- Healthcare Software product knowledge
+- React Native understanding
+
+[Recommendation.] (https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
 
 ---------------------------------------------------------------------------------------------------------------------
