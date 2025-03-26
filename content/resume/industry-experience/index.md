@@ -41,7 +41,7 @@ I led and carried out a network analysis project for the System Changer Network 
 
 ## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
 #### Remote, January - February 2023
-Learnt and implemented the fundamentals of JavaScript and React.
+Learned and implemented the fundamentals of JavaScript and React.
 
 ---------------------------------------------------------------------------------------------------------------------
 
