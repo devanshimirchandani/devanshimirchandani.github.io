@@ -22,7 +22,7 @@ We’ve all been there—staring at a fridge full of ingredients but unsure what
 
 Our team of four explored how MS Copilot could seamlessly integrate into the agriculture industry, enhancing productivity and decision-making. We designed AI-driven systems that empowered farmers with real-time insights, automation, and intelligent recommendations, bridging the gap between traditional farming practices and cutting-edge technology. Following our win, we got an exclusive tour of the Microsoft office, got hands-on with cutting-edge tech, and did speed networking with industry experts.
 
-- **Award 🏆** One of five finalist teams
+- **Award 🏆** Winner, one of five finalist teams
 - **Tech Stack 🛠️** Microsoft Copilot
 
 ---------------------------------------------------------------------------------------------------------------------
