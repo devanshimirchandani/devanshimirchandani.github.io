@@ -15,7 +15,7 @@ At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Intern @ Boehringer Ingelheim
+## Intern @ Boehringer Ingelheim | [Reccomendation](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)
 #### *Dubai, UAE*, October - December 2023
 My internship program at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) was uniquely structured to give me exposure to multiple verticals within IT, including **data science**, **software engineering**, **technical project management**, and **infrastructure** — all within the span of just three months. This dynamic setup allowed me to work with diverse teams simultaneously, tackling a variety of challenges and gaining a holistic understanding of how IT drives innovation in a global organisation.
 
@@ -39,5 +39,19 @@ I led and carried out a network analysis project for the System Changer Network 
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Software Development Intern @ Xetech 
+## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
 #### Remote, January - February 2023
+Learnt and implemented the fundamentals of JavaScript and React.
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Software Development Intern @ Xetech | [Recommendation] (https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
+#### Remote, June - July 2022
+— Agile Methodology, Scrum guidance and events, Scrum Practice sessions
+— Documentation of Business Analysis
+— Manual Testing Standards, Test cases study, Test scenarios, Functional Testing
+— Project Management via DevOps
+— Healthcare Software product knowledge
+— React Native understanding
+
+---------------------------------------------------------------------------------------------------------------------
