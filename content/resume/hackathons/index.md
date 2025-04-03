@@ -28,6 +28,8 @@ Our team of four explored how MS Copilot could seamlessly integrate into the agr
 - **Award 🏆** Winner! One of five finalist teams
 - **Tech Stack 🛠️** Microsoft Copilot
 
+{{< figArray subfolder="hackathon3" figCaption="At the Microsoft Office" >}}
+
 ---------------------------------------------------------------------------------------------------------------------
 
 ## **Build Club x Eucalyptus AI Hackathon**
