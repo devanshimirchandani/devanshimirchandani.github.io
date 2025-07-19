@@ -8,6 +8,12 @@ toc: false
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## **Backend Software Engineering Intern @ Atlassian**
+#### *Sydney, Australia*, November 2025 - February 2026
+Incoming.
+{{< figArray subfolder="atlassian" figCaption=" " >}}
+
+
 ## **Software Engineering Intern @ Plumm**
 #### *Remote*, June - July 2024
 At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance `Emma AI`, their in-house chat and voice AI therapist central to the HR platform. My role involved **rigorous testing** and **documentation** to ensure quality and reliability. Additionally, I explored ways to expand Emma's capabilities, including researching the integration video functionality through third-party services like [Soul Machines](https://www.soulmachines.com/), moving beyond traditional chat and voice interactions to create a more immersive experience.
@@ -47,11 +53,13 @@ I led and carried out a network analysis project for the System Changer Network 
 
 {{< figArray subfolder="biokind" figCaption="Meeting with the ALS Association" >}}
 
-As part of my research with Biokind Analytics, I collaborated on a project analysing patient data provided by the [ALS Association](https://www.als.org/support/states/texas), focusing on the state of Texas. Due to the nature of ALS — <ins>a disease that is difficult to characterise, predict, and cure</ins>, our goal was to develop a profile of **socioeconomic** and **geographic** factors *influencing* ALS care in Texas.
+As part of my research with Biokind Analytics, I collaborated on a project analysing patient data provided by the [ALS Association](https://www.als.org/support/states/texas), focusing on the state of Texas. Due to the nature of ALS — a disease that is difficult to characterise, predict, and cure, our goal was to develop a profile of **socioeconomic** and **geographic** factors *influencing* ALS care in Texas.
 
 Using `R`, we employed statistical methods, including `t-tests` and `regression analysis`, to examine variables such as `income`, `age`, and `geographical location`. We analysed veteran and *non*-veteran populations, clinic usage, and travel distances to treatment centers. Key findings included significant differences in age distributions between veterans and non-veterans, as well as regional patterns highlighting disparities in access to care.
 
 This research provided valuable insights, contributing to **targeted recommendations** for improving resource allocation and patient support.
+
+
 
 ---------------------------------------------------------------------------------------------------------------------
 
