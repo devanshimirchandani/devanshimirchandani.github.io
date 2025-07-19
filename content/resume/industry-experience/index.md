@@ -1,6 +1,7 @@
 ---
 title: Industry Experience
 summary: From software engineering, to data analysis, to project management, I’ve tackled challenges across diverse roles, blending technical expertise with leadership and collaboration to make meaningful impact. Here are the highlights.
+date: 2025-07-19
 cardimage: industry1.png
 toc: false
 ---

@@ -2,7 +2,7 @@
 title: Hackathons
 summary: I thrive on building innovative solutions in high-pressure, collaborative environments — and hackathons are my favorite playground. Here’s a glimpse into some of the most rewarding projects I’ve been a part of.
 cardimage: hackathon1.jpeg
-date: 2024-12-03
+date: 2025-03-05
 ---
 
 ---------------------------------------------------------------------------------------------------------------------
