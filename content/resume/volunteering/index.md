@@ -8,6 +8,11 @@ cardimage: volunteer3.png
 ---------------------------------------------------------------------------------------------------------------------
 
 ## Girls Programming Network (GPN)
+### Senior Mentor
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Girls Programming Network (GPN)
 ### Academic Volunteer
 
 As a volunteer with the [Girls Programming Network](https://www.girlsprogramming.network/), I led beginner-level **workshops** for **K-12 students**, teaching the basics of `Python`, including `if` statements, `for` loops, and simple programming concepts.
