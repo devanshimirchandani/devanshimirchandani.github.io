@@ -13,6 +13,7 @@ toc: false
 Incoming.
 {{< figArray subfolder="atlassian" figCaption=" " >}}
 
+---------------------------------------------------------------------------------------------------------------------
 
 ## **Software Engineering Intern @ Plumm**
 #### *Remote*, June - July 2024
