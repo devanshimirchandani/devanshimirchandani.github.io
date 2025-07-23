@@ -60,5 +60,4 @@ Our team of four focused on intuitive UI/UX and functionality, earning recogniti
 
 {{< figArray subfolder="hackathon2" figCaption="Winning Coding Fests' Top Undergraduate Project, July 2023" >}}
 
-
 ---------------------------------------------------------------------------------------------------------------------
