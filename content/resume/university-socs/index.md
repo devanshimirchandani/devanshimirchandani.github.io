@@ -32,8 +32,6 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Maintained the [SYNCS](https://syncs.org.au/) website and led technical projects, including programming competitions and the annual `Bot Battle` and `SYNCSHACK`.
 - Managed a team of subcommittee members to ensure seamless execution of technical events.
 
----------------------------------------------------------------------------------------------------------------------
-
 ### Technical Events Team
 #### March - September 2023
 - Organised, designed, and ran **15+** tech-focused events, showcasing cutting-edge innovations to students and industry professionals.
@@ -47,8 +45,6 @@ I’ve had the privilege of being involved in seven university societies so far,
 #### August 2023 - 2024
 - Managed the [SUDATA](https://sudata.org/) website, integrating new features such as a photo gallery and a merch shop, increasing engagement by *35%*.
 - Leveraged technologies like `Flask`, `Python`, and `PostgreSQL` to improve user experience.
-
----------------------------------------------------------------------------------------------------------------------
 
 ### Undergraduate Representative
 #### June - August 2023
@@ -80,8 +76,6 @@ I’ve had the privilege of being involved in seven university societies so far,
 ### University Relations Team Lead
 #### June - August 2023
 - Managed [AIESEC](https://aiesecaustralia.org/lc/aiesec-in-usyd/)'s University Relations portfolio, leading team members in outreach and collaborative efforts with other societies and industry partners.
-
----------------------------------------------------------------------------------------------------------------------
 
 ### H4TF Subcommittee
 #### February - May 2023
