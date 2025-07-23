@@ -15,6 +15,8 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Spearheading the **curation** of meaningful [TEDxUSYD](https://www.linkedin.com/company/tedxusyd/posts/?feedView=all) events, connecting *like-minded* individuals to exchange impactful ideas.
 {{< figArray subfolder="tedxusyd" figCaption="TEDxUSYD Founding Team 2024" >}}
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## Biokind Analytics
 ### Founding Chapter President
 #### December 2023 - 2024
@@ -22,11 +24,15 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Built a team of undergraduate data scientists and statisticians to drive projects and enhance the organisation’s regional presence. 
 {{< figArray subfolder="biokind2" figCaption="Biokind Analytics Regional Leadership" >}}
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## Sydney Computing Society (SYNCS)
 ### Development Lead
 #### March - September 2024
 - Maintained the [SYNCS](https://syncs.org.au/) website and led technical projects, including programming competitions and the annual `Bot Battle` and `SYNCSHACK`.
 - Managed a team of subcommittee members to ensure seamless execution of technical events.
+
+---------------------------------------------------------------------------------------------------------------------
 
 ### Technical Events Team
 #### March - September 2023
@@ -34,17 +40,23 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Represented SYNCS in the Engineering faculty, presenting Lab Zero and promoting the society to undergraduate students.
 {{< figArray subfolder="syncs" figCaption="SYNCS Executives 2023/2024" >}}
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## Sydney Uni Data Society (SUDATA)
 ### Technology Officer
 #### August 2023 - 2024
 - Managed the [SUDATA](https://sudata.org/) website, integrating new features such as a photo gallery and a merch shop, increasing engagement by *35%*.
 - Leveraged technologies like `Flask`, `Python`, and `PostgreSQL` to improve user experience.
 
+---------------------------------------------------------------------------------------------------------------------
+
 ### Undergraduate Representative
 #### June - August 2023
 - Represented the undergraduate voice in faculty discussions and orientations, collaborating with lecturers and other executives.
 - Promoted SUDATA’s initiatives to incoming cohorts and assisted in delivering impactful student-focused projects.
 {{< figArray subfolder="sudata" figCaption="SUDATA at Welcome Fest 2023" >}}
+
+---------------------------------------------------------------------------------------------------------------------
 
 ## Google Developer Group (GDG)
 ### Technical Events Team Member
@@ -53,6 +65,8 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Played an active role in brainstorming, task allocation, and idea sharing within the team.
 {{< figArray subfolder="gdg" figCaption="Technical Events Team" >}}
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## Network of Women (NOW)
 ### Marketing Subcommittee
 #### March - October 2023
@@ -60,12 +74,18 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Collaborated with the executive board to promote the society’s initiatives effectively.
 {{< figArray subfolder="now" figCaption="NOW Executives 2023" >}}
 
+---------------------------------------------------------------------------------------------------------------------
+
 ## AIESEC
 ### University Relations Team Lead
 #### June - August 2023
 - Managed [AIESEC](https://aiesecaustralia.org/lc/aiesec-in-usyd/)'s University Relations portfolio, leading team members in outreach and collaborative efforts with other societies and industry partners.
 
+---------------------------------------------------------------------------------------------------------------------
+
 ### H4TF Subcommittee
 #### February - May 2023
 - Assisted in the planning, design, and facilitation of the *Heading for the Future* (H4TF) program, working with industry partners like **Gamuda** and **JP Morgan**.
 {{< figArray subfolder="aiesec" figCaption="AIESEC Executives 2023" >}}
+
+---------------------------------------------------------------------------------------------------------------------

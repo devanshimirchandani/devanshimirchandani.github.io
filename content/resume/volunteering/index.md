@@ -1,14 +1,16 @@
 ---
 title: Volunteering
 summary: I’m passionate about empowering the next generation of tech creators — and volunteering has been an incredible way to give back. Here’s how I’ve helped young minds unlock the power of coding.
-date: 2023-05-20
+date: 2025-05-20
 cardimage: volunteer3.png
 ---
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Girls Programming Network (GPN)
+## The University of Sydney
 ### Senior Mentor
+
+First iteration of the Women In Engineering Mentorship Program, mentoring five first-year students studying engineering.
 
 ---------------------------------------------------------------------------------------------------------------------
 
