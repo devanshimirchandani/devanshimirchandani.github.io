@@ -15,6 +15,15 @@ Incoming.
 
 ---------------------------------------------------------------------------------------------------------------------
 
+## **Full-stack Software Engineering Intern @ APTENT Digital**
+#### *Sydney, Australia*, August 2025 - Present
+- Built and enhanced features for the Bondi Icebergs reservation and membership app, integrating backend data with Firestore for seamless reservations and memberships.
+- Rebuilt and modernised the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling.
+- Technologies: Flutter, FlutterFlow, Firebase/Firestore
+{{< figArray subfolder="aptent" figCaption=" " >}}
+
+---------------------------------------------------------------------------------------------------------------------
+
 ## **Software Engineering Intern @ Plumm**
 #### *Remote*, June - July 2024
 At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance `Emma AI`, their in-house chat and voice AI therapist central to the HR platform. My role involved **rigorous testing** and **documentation** to ensure quality and reliability. Additionally, I explored ways to expand Emma's capabilities, including researching the integration video functionality through third-party services like [Soul Machines](https://www.soulmachines.com/), moving beyond traditional chat and voice interactions to create a more immersive experience.
