@@ -18,9 +18,8 @@ Incoming.
 
 ## **Full-stack Software Engineer Intern @ Aptent**
 #### *Sydney, Australia*, August 2025 - Present
-- Built and enhanced features for the Bondi Icebergs reservation and membership app, integrating backend data with Firestore for seamless reservations and memberships.
-- Rebuilt and modernised the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling.
-- Using **Flutter**, **FlutterFlow**, **Firebase/Firestore**
+
+At [Aptent](https://aptent.com.au/), I work on client-facing apps such as Bondi Icebergs’ reservation and membership platform, adding features and integrating backend data with Firestore to enable seamless booking and membership processes. I also rebuilt and updated the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling. All projects leverage **Flutter**, **FlutterFlow**, **Firebase/Firestore**.
 
 {{< figArray subfolder="aptent" figCaption=" " >}}
 
