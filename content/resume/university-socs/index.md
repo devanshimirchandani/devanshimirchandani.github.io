@@ -10,7 +10,7 @@ I’ve had the privilege of being involved in seven university societies so far,
 ---------------------------------------------------------------------------------------------------------------------
 
 ## TEDxUSYD
-### Founding Head of Curation
+### President, Ex Founding Head of Curation
 #### October 2024 - *Present*
 - Spearheading the **curation** of meaningful [TEDxUSYD](https://www.linkedin.com/company/tedxusyd/posts/?feedView=all) events, connecting *like-minded* individuals to exchange impactful ideas.
 {{< figArray subfolder="tedxusyd" figCaption="TEDxUSYD Founding Team 2024" >}}
