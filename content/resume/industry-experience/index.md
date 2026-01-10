@@ -9,15 +9,22 @@ toc: false
 ---------------------------------------------------------------------------------------------------------------------
 
 ## **Backend Software Engineer Intern @ Atlassian**
-#### *Sydney, Australia*, November 2025 - February 2026
-Incoming.
+#### *Sydney, Australia*, November 2025 - Present
+
+At [Atlassian](https://aptent.com.au/) I'm in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using TypeScript, React.js, Node.js, and SQL.
+
+I've built features for an internal service‑dependency visualisation platform that helps improve reliability of Atlassian’s cloud services, including an “observed dependency” model that maps real traffic between 1600+ microservices from network flow logs. This came with integrating the platform with new data pipelines and tables by working across multiple internal data systems, resolving access, authentication, and CI issues to ensure accurate, up‑to‑date dependency data. Also implemented backend and UI changes with automated tests and production‑grade logging, using debugging and observability tools to validate behaviour in both local and production environments. 
+
+"Greatly Exceeded Expectations" by leading, authored, and presented a technical design (Request For Comments) to evolve the platform’s data model, incorporated feedback from senior engineers, and translated the design into a multi‑milestone implementation plan.
+
+I also initiated and organised intern “Spotlight Sessions”, coordinating speakers, content, and FAQs so interns across teams could share their projects, learn from each other, and connect with mentors. across 6 full–booked sessions.
 
 {{< figArray subfolder="atlassian" figCaption=" " >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## **Full-stack Software Engineer Intern @ Aptent**
-#### *Sydney, Australia*, August 2025 - Present
+#### *Sydney, Australia*, August - October 2025
 
 At [Aptent](https://aptent.com.au/), I work on client-facing apps such as Bondi Icebergs’ reservation and membership platform, adding features and integrating backend data with Firestore to enable seamless booking and membership processes. I also rebuilt and updated the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling. All projects leverage **Flutter**, **FlutterFlow**, **Firebase/Firestore**.
 
