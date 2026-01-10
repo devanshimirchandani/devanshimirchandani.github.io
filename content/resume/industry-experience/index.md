@@ -17,7 +17,7 @@ I've built features for an internal service‑dependency visualisation platform 
 
 **"Greatly Exceeded Expectations"** by leading, authored, and presented a technical design (Request For Comments) to evolve the platform’s data model, incorporated feedback from senior engineers, and translated the design into a multi‑milestone implementation plan.
 
-I also initiated and organised intern “Spotlight Sessions”, coordinating speakers, content, and FAQs so interns across teams could share their projects, learn from each other, and connect with mentors. across 6 full–booked sessions.
+I also initiated and organised intern “Spotlight Sessions”, coordinating speakers, content, and FAQs so interns across teams could share their projects, learn from each other, and connect with mentors across 6 full–booked sessions.
 
 {{< figArray subfolder="atlassian" figCaption=" " >}}
 
