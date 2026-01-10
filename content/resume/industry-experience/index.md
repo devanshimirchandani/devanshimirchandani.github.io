@@ -11,11 +11,11 @@ toc: false
 ## **Backend Software Engineer Intern @ Atlassian**
 #### *Sydney, Australia*, November 2025 - Present
 
-At [Atlassian](https://aptent.com.au/) I'm in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using TypeScript, React.js, Node.js, and SQL.
+At [Atlassian](https://aptent.com.au/) I'm in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using **TypeScript**, **React.js**, **Node.js**, and **SQL**.
 
 I've built features for an internal service‑dependency visualisation platform that helps improve reliability of Atlassian’s cloud services, including an “observed dependency” model that maps real traffic between 1600+ microservices from network flow logs. This came with integrating the platform with new data pipelines and tables by working across multiple internal data systems, resolving access, authentication, and CI issues to ensure accurate, up‑to‑date dependency data. Also implemented backend and UI changes with automated tests and production‑grade logging, using debugging and observability tools to validate behaviour in both local and production environments. 
 
-"Greatly Exceeded Expectations" by leading, authored, and presented a technical design (Request For Comments) to evolve the platform’s data model, incorporated feedback from senior engineers, and translated the design into a multi‑milestone implementation plan.
+**"Greatly Exceeded Expectations"** by leading, authored, and presented a technical design (Request For Comments) to evolve the platform’s data model, incorporated feedback from senior engineers, and translated the design into a multi‑milestone implementation plan.
 
 I also initiated and organised intern “Spotlight Sessions”, coordinating speakers, content, and FAQs so interns across teams could share their projects, learn from each other, and connect with mentors. across 6 full–booked sessions.
 
