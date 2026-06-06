@@ -7,11 +7,11 @@ date: 2024-10-25
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Sydney Data Precision Centre (SPDSC)
+## Sydney Precision Data Science Centre (SPDSC)
 ### Junior Researcher
 #### August - October 2024
 
-The [Sydney Precision Data Science Centre (SPDSC)](https://www.sydney.edu.au/science/our-research/research-centres/sydney-precision-data-science-centre.html) at the University of Sydney is a multidisciplinary research hub dedicated to addressing critical societal challenges through precision data analysis. During a <ins>three-month mentorship</ins> program with SPDSC, I worked with a team under the supervision of a [Dr Pratibha Panwar](https://www.sydney.edu.au/science/about/our-people/academic-staff/pratibha-panwar.html#collapseprofileresearchinterest), focusing on characterising cell types in healthy and disease-state tissue using **single-cell RNA sequencing (scRNA-seq) data**. I pitched the idea of exploring cancer as our research focus, which was embraced by the team.
+The [Sydney Precision Data Science Centre (SPDSC)](https://www.sydney.edu.au/science/our-research/research-centres/sydney-precision-data-science-centre.html) at the University of Sydney is a multidisciplinary research hub dedicated to addressing critical societal challenges through precision data analysis. During a <ins>three-month mentorship</ins> program with SPDSC, I worked with a team under the supervision of [Dr Pratibha Panwar](https://www.sydney.edu.au/science/about/our-people/academic-staff/pratibha-panwar.html#collapseprofileresearchinterest), focusing on characterising cell types in healthy and disease-state tissue using **single-cell RNA sequencing (scRNA-seq) data**. I pitched the idea of exploring cancer as our research focus, which was embraced by the team.
 
 {{< figArray subfolder="spdsc2" figCaption="Presenting our cell-classification methods" >}}
 

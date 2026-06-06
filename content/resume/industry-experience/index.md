@@ -8,46 +8,48 @@ toc: false
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## **Backend Software Engineer Intern @ Atlassian**
-#### *Sydney, Australia*, November 2025 - Present
+## **Full-stack Software Engineer Intern @ Atlassian**
+#### *Sydney, Australia*, November 2025 - February 2026
 
-At [Atlassian](https://aptent.com.au/) I'm in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using **TypeScript**, **React.js**, **Node.js**, and **SQL**.
+At [Atlassian](https://www.atlassian.com/) I was in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using **TypeScript**, **React.js**, **Node.js**, and **SQL**.
 
-I've built features for an internal service‑dependency visualisation platform that helps improve reliability of Atlassian’s cloud services, including an “observed dependency” model that maps real traffic between 1600+ microservices from network flow logs. This came with integrating the platform with new data pipelines and tables by working across multiple internal data systems, resolving access, authentication, and CI issues to ensure accurate, up‑to‑date dependency data. Also implemented backend and UI changes with automated tests and production‑grade logging, using debugging and observability tools to validate behaviour in both local and production environments. 
+I built features for an internal service‑dependency visualisation platform that helps improve reliability of Atlassian’s cloud services, including an “observed dependency” model that maps real traffic between 1600+ microservices from network flow logs. This came with integrating the platform with new data pipelines and tables by working across multiple internal data systems, resolving access, authentication, and CI issues to ensure accurate, up‑to‑date dependency data. Also implemented backend and UI changes with automated tests and production‑grade logging, using debugging and observability tools to validate behaviour in both local and production environments. 
 
-**"Greatly Exceeded Expectations"** by leading, authored, and presented a technical design (Request For Comments) to evolve the platform’s data model, incorporated feedback from senior engineers, and translated the design into a multi‑milestone implementation plan.
+Received a **”Greatly Exceeded Expectations”** performance rating for leading, authoring, and presenting a technical design (Request For Comments) to evolve the platform’s data model — incorporating feedback from senior engineers and translating it into a multi‑milestone implementation plan.
 
 I also initiated and organised intern “Spotlight Sessions”, coordinating speakers, content, and FAQs so interns across teams could share their projects, learn from each other, and connect with mentors across 6 full–booked sessions.
 
-{{< figArray subfolder="atlassian" figCaption=" " >}}
+Received a return offer for a **Graduate Software Engineer** role.
+
+{{< figArray subfolder=”atlassian” figCaption=” “ >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## **Full-stack Software Engineer Intern @ Aptent**
 #### *Sydney, Australia*, August - October 2025
 
-At [Aptent](https://aptent.com.au/), I work on client-facing apps such as Bondi Icebergs’ reservation and membership platform, adding features and integrating backend data with Firestore to enable seamless booking and membership processes. I also rebuilt and updated the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling. All projects leverage **Flutter**, **FlutterFlow**, **Firebase/Firestore**.
+At [Aptent](https://aptent.com.au/), I worked on client-facing apps such as Bondi Icebergs’ reservation and membership platform, adding features and integrating backend data with Firestore to enable seamless booking and membership processes. I also rebuilt and updated the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling. All projects leveraged **Flutter**, **FlutterFlow**, **Firebase/Firestore**.
 
 {{< figArray subfolder="aptent" figCaption=" " >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## **Software Engineer Intern @ Plumm**
-#### *Remote*, June - July 2024
-At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance `Emma AI`, their in-house chat and voice AI therapist central to the HR platform. My role involved **rigorous testing** and **documentation** to ensure quality and reliability. Additionally, I explored ways to expand Emma's capabilities, including researching the integration video functionality through third-party services like [Soul Machines](https://www.soulmachines.com/), moving beyond traditional chat and voice interactions to create a more immersive experience.
+#### *Remote*, August 2024
+At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance `Emma AI`, their in-house chat and voice AI therapist central to the HR platform. My role involved **rigorous quality assurance testing** and **documentation** to ensure quality and reliability — identifying and resolving key performance bottlenecks that **improved response time by 6%**. Additionally, I explored ways to expand Emma's capabilities, including researching the integration video functionality through third-party services like [Soul Machines](https://www.soulmachines.com/), moving beyond traditional chat and voice interactions to create a more immersive experience.
 
 {{< figArray subfolder="plumm" figCaption="Chatting with Charlotte from HR" >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Intern @ Boehringer Ingelheim | [Reccomendation](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)
+## Intern @ Boehringer Ingelheim | [Recommendation](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)
 #### *Dubai, UAE*, October - December 2023
 My internship program at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) was uniquely structured to give me exposure to multiple verticals within IT, including **data science**, **software engineering**, **technical project management**, and **infrastructure** — all within the span of just three months. This dynamic setup allowed me to work with diverse teams simultaneously, tackling a variety of challenges and gaining a holistic understanding of how IT drives innovation in a global organisation.
 
 ### Technical Project Management Intern
 Played a key role in planning the annual flagship [*Technology and Innovation Expo*](https://www.linkedin.com/posts/oliver-sluke_technology-innovation-expo-2023-in-dubai-activity-7123613190361407488-Yw8X?utm_source=share&utm_medium=member_desktop), a purely internal event, as one of four core team members, coordinating a **500+ attendee event**. Took charge of **communications**, **vendors**, and **logistics**, ensuring the event’s seamless execution. Designed and distributed multimedia promotional content to *60,000+* internal stakeholders, significantly boosting event visibility. <ins>Conducted 30+ “1-Minute Interviews”</ins> with key stakeholders, including the global CIO. The highlight for me was serving as the event’s <ins>Master of Ceremonies</ins>, engaging with 500+ attendees and setting the energy for the rest of the event.
 
-{{< figArray subfolder="bi-pm1" figCaption="#TeamIT at the 2023 Technology and Innvoation Expo" >}}
+{{< figArray subfolder="bi-pm1" figCaption="#TeamIT at the 2023 Technology and Innovation Expo" >}}
 {{< figArray subfolder="bi-pm2" figCaption="Me as MC for the Expo!" >}}
 
 ### Software Engineer Intern

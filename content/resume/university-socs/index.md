@@ -1,18 +1,18 @@
 ---
 title: University Societies
-summary: I’ve had the privilege of being involved in a 8 university societies so far, from tech-focused groups to leadership and community-driven initiatives — all which shaped my university journey in a way that goes beyond the classroom.
+summary: I’ve had the privilege of being involved in over ten university societies, from tech-focused groups to leadership and community-driven initiatives — all of which shaped my university journey in a way that goes beyond the classroom.
 date: 2024-10-30
 cardimage: socs1.jpg
 ---
 
-I’ve had the privilege of being involved in seven university societies so far, from tech-focused groups to leadership and community-driven initiatives — all which shaped my university journey in a way that goes beyond the classroom.
+I’ve had the privilege of being involved in over ten university societies, from tech-focused groups to leadership and community-driven initiatives — all of which shaped my university journey in a way that goes beyond the classroom.
 
 ---------------------------------------------------------------------------------------------------------------------
 
 ## TEDxUSYD
 ### President, Ex Founding Head of Curation
 #### October 2024 - *Present*
-- Spearheading the **curation** of meaningful [TEDxUSYD](https://www.linkedin.com/company/tedxusyd/posts/?feedView=all) events, connecting *like-minded* individuals to exchange impactful ideas.
+- Leading an exec team of **40** across **7 portfolios** and a club of **600+ members**, connecting *like-minded* individuals through meaningful [TEDxUSYD](https://www.linkedin.com/company/tedxusyd/posts/?feedView=all) events.
 {{< figArray subfolder="tedxusyd" figCaption="TEDxUSYD Founding Team 2024" >}}
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -29,8 +29,7 @@ I’ve had the privilege of being involved in seven university societies so far,
 ## Sydney Computing Society (SYNCS)
 ### Development Lead
 #### March - September 2024
-- Maintained the [SYNCS](https://syncs.org.au/) website and led technical projects, including programming competitions and the annual `Bot Battle` and `SYNCSHACK`.
-- Managed a team of subcommittee members to ensure seamless execution of technical events.
+- Managed technical infrastructure and led a **4-member subcommittee** for **15+ events** reaching **1500+ students**, including programming competitions and the annual `Bot Battle` and `SYNCSHACK`.
 
 ### Technical Events Team
 #### March - September 2023
@@ -69,6 +68,13 @@ I’ve had the privilege of being involved in seven university societies so far,
 - Crafted content for [NOW](https://www.instagram.com/networkofwomen/)'s email communications, newsletters, and campus updates to enhance member engagement.
 - Collaborated with the executive board to promote the society’s initiatives effectively.
 {{< figArray subfolder="now" figCaption="NOW Executives 2023" >}}
+
+---------------------------------------------------------------------------------------------------------------------
+
+## Statistics Society (STATSOC)
+### Vice President
+#### September 2023 - February 2024
+- Assisted in leading the society and contributing to its overall management and strategic direction.
 
 ---------------------------------------------------------------------------------------------------------------------
 
