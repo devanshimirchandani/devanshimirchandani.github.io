@@ -10,6 +10,7 @@ toc: false
 
 ## **Full-stack Software Engineer Intern @ Atlassian**
 #### *Sydney, Australia*, November 2025 - February 2026
+*[View Recommendation →](https://www.linkedin.com/in/devanshi-mirchandani/details/recommendations/)*
 
 At [Atlassian](https://www.atlassian.com/) I was in the Micros Extensibility Team, working on PaaS Dependency Visualisation System using **TypeScript**, **React.js**, **Node.js**, and **SQL**.
 
@@ -27,6 +28,7 @@ Received a return offer for a **Graduate Software Engineer** role.
 
 ## **Full-stack Software Engineer Intern @ Aptent**
 #### *Sydney, Australia*, August - October 2025
+*[View Recommendation →](https://www.linkedin.com/in/devanshi-mirchandani/details/recommendations/)*
 
 At [Aptent](https://aptent.com.au/), I worked on client-facing apps such as Bondi Icebergs’ reservation and membership platform, adding features and integrating backend data with Firestore to enable seamless booking and membership processes. I also rebuilt and updated the UI/UX of Scannr, an internal app for managing clients’ QR codes, improving usability and streamlining data handling. All projects leveraged **Flutter**, **FlutterFlow**, **Firebase/Firestore**.
 
