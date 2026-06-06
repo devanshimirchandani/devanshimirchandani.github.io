@@ -47,6 +47,7 @@ At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance
 ## Intern @ Boehringer Ingelheim
 #### *Dubai, UAE*, October - December 2023
 *[View Recommendation →](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)*
+
 My internship program at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) was uniquely structured to give me exposure to multiple verticals within IT, including **data science**, **software engineering**, **technical project management**, and **infrastructure** — all within the span of just three months. This dynamic setup allowed me to work with diverse teams simultaneously, tackling a variety of challenges and gaining a holistic understanding of how IT drives innovation in a global organisation.
 
 ### Technical Project Management Intern
