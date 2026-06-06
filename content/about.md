@@ -5,7 +5,7 @@ bio: true
 # icon: ":coffee:"
 ---
 
-Hello:wave: I'm a **penultimate-year student** at the University of Sydney, pursuing a Bachelor of Advanced Computing (Honours) with double majors in *Computational Data Science* and *Software Development*. 
+Hello:wave: I'm a **penultimate-year student** at the University of Sydney, pursuing a Bachelor of Computing with a major in *Computational Data Science* and minor in *Software Development*. 
 
 Born and raised in Dubai, I now call Sydney home. Beyond my passion for technology, I enjoy gaming, meeting new people, exploring videography, and challenging myself to step *out* of my comfort zone. I'm deeply interested in leadership and community engagement, which has led me to participate in <ins>over seven university societies</ins>, including founding one of them.
 
