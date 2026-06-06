@@ -21,7 +21,7 @@ I also initiated and organised intern “Spotlight Sessions”, coordinating spe
 
 Received a return offer for a **Graduate Software Engineer** role.
 
-{{< figArray subfolder=”atlassian” figCaption=” “ >}}
+{{< figArray subfolder="atlassian" figCaption=" " >}}
 
 ---------------------------------------------------------------------------------------------------------------------
 
