@@ -42,8 +42,9 @@ At [Plumm](https://www.heyplumm.com/), I worked directly with the CTO to advance
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Intern @ Boehringer Ingelheim | [Recommendation](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)
+## Intern @ Boehringer Ingelheim
 #### *Dubai, UAE*, October - December 2023
+*[View Recommendation →](https://drive.google.com/file/d/1tWiaOu22PpZb2OWk4lOO49HIjfIU2qDY/view?usp=sharing)*
 My internship program at [Boehringer Ingelheim](https://www.boehringer-ingelheim.com/) was uniquely structured to give me exposure to multiple verticals within IT, including **data science**, **software engineering**, **technical project management**, and **infrastructure** — all within the span of just three months. This dynamic setup allowed me to work with diverse teams simultaneously, tackling a variety of challenges and gaining a holistic understanding of how IT drives innovation in a global organisation.
 
 ### Technical Project Management Intern
@@ -86,15 +87,17 @@ This research provided valuable insights, contributing to **targeted recommendat
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Software Development Intern @ Xetech | [Recommendation](https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)
+## Software Development Intern @ Xetech
 #### Remote, January - February 2023
+*[View Recommendation →](https://drive.google.com/file/d/1cRw0dEGTyqlC1TNuwgZkZEgDjRJoAVeQ/view?usp=sharing)*
 
 Learned and implemented the fundamentals of JavaScript and React. 
 
 ---------------------------------------------------------------------------------------------------------------------
 
-## Software Development Intern @ Xetech | [Recommendation](https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)
+## Software Development Intern @ Xetech
 #### Remote, June - July 2022
+*[View Recommendation →](https://drive.google.com/file/d/12ixzkVHJCQ1OApAb_RPCrIk1NUqB2aVn/view?usp=sharing)*
 
 - Agile Methodology, Scrum guidance and events, Scrum Practice sessions
 - Documentation of Business Analysis
